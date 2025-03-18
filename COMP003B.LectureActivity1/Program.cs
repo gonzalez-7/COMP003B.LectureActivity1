@@ -1,3 +1,10 @@
+/*
+ * Author: Antonio Gonzalez
+ * Course: COMP003B
+ * Faculty: Jonathan Cruz
+ * Purpose: My first ASP.NET Core application
+ * 
+ */
 namespace COMP003B.LectureActivity1
 {
     public class Program
